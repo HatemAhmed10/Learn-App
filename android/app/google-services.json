@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139692644441",
+    "project_id": "learnapp-57da8",
+    "storage_bucket": "learnapp-57da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139692644441:android:a11f683fcd00b500ed7948",
+        "android_client_info": {
+          "package_name": "com.example.eldaheeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139692644441-3cu6k6ekgphto5o2kttbjcfrjv5ej5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3SjdWHHRNZ0DFEwr2dSjct1jKBUyPvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139692644441-3cu6k6ekgphto5o2kttbjcfrjv5ej5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
